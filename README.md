@@ -1,1 +1,1 @@
-See https://poeditor.com/join/project?hash=9Tbz8ZJOWA
+Locale directory for Podcrash Play
